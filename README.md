@@ -16,6 +16,8 @@ J'aime transformer des données financières brutes en informations fiables et u
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
 
 **DevOps & industrialisation**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -48,6 +50,7 @@ J'aime transformer des données financières brutes en informations fiables et u
 
 | Projet | Description | Stack |
 |---|---|---|
+| [**Big Data : pipeline Citi Bike**](https://github.com/chloe254/big-data-ecosystem) | Pipeline batch sur cluster Hadoop analysant **1,9 M de trajets** de vélos en libre-service à New York : nettoyage Python, ingestion HDFS, tables Hive externe puis ORC, analyses HiveQL (heures de pointe, stations clés, part de vélos électriques) et extension vers une architecture hybride batch + « temps réel ». | Hadoop, HDFS, Hive, SQL, Python |
 | [**DevOpsLabs**](https://github.com/chloe254/DevOpsLabs) | Série de labs DevOps : Git, tests automatisés en TDD, pipeline CI/CD avec GitHub Actions et déploiement continu sur Render, conteneurisation Docker / Docker Compose, stockage Kubernetes (emptyDir, hostPath, PersistentVolume). Chaque lab documente les difficultés rencontrées et leurs solutions. | Node.js, Redis, GitHub Actions, Docker, Kubernetes |
 | [**Omnes Immobilier**](https://github.com/bnvala/WD_Alice_Edouard_Chloe_Victor) | Application web d'agence immobilière réalisée à 4 : catalogue de biens, recherche multicritère, prise de rendez-vous, messagerie client-agent et espace administrateur. Base de données relationnelle de 11 tables, plus de 260 commits en équipe. | PHP, MySQL, HTML/CSS, JavaScript |
 | [**Systèmes d'exploitation**](https://github.com/chloe254/systemes-exploitation-c) | Programmation système Linux en C à travers 4 TP : entrées/sorties bas niveau et inodes, processus (`fork`, zombies, orphelins), signaux (mini-ordonnanceur *round-robin*), threads POSIX (produit matriciel parallèle, dîner des philosophes sans interblocage). | C, Linux, POSIX, pthreads |
