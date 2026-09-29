@@ -1,12 +1,23 @@
 ## Chloé Lestic
 
-Élève ingénieure en dernière année à l'ECE Paris, en alternance comme data scientist / data engineer à la direction financière (MOA Finance).
+Apprentie ingénieure en 5e année à l'ECE Paris (majeure Data & IA), en alternance chez Thales Global Services.
 
 Je cherche un CDI en data science ou data engineering à partir de septembre 2027.
 
-### Ce que je fais en alternance
+### Alternance
 
-Je fais le lien entre les équipes Finance et les équipes techniques : recueil des besoins, spécifications, recette. Côté technique, je prépare et fiabilise des données financières et j'automatise des traitements et des reportings. On travaille sous GitLab. Ce code reste interne à l'entreprise, il n'est donc pas sur ce compte.
+Je travaille dans l'équipe Group Finance Solutions, qui gère les outils data de la fonction finance du groupe. Mes missions tournent autour d'un projet de datawarehouse finance : construire une source de données unique et documentée, notamment en vue de la migration vers SAP S/4HANA.
+
+Ce que j'ai fait jusqu'ici :
+
+- un template Power BI pour la fonction finance (thème et rapport modèle), avec les guides de déploiement selon la source (Excel, SQL, cube SSAS) ;
+- un dashboard qui documente les objets de données finance (sources, règles de transformation), avec une page de recherche inverse pour partir d'une table source et retrouver les objets qui l'utilisent ;
+- la récupération des métadonnées de DataGalaxy par API REST (tests sous Postman), intégrée dans un job Talend qui alimente Power BI ;
+- la refonte d'un reporting de pilotage de projets (Power Query, DAX, Tabular Editor) ;
+- un premier modèle de machine learning sous Dataiku : clustering K-means en Python sur des données projets (choix du K par méthode du coude et score de silhouette), avant un modèle prédictif de dépassement budgétaire ;
+- de l'automatisation d'envois de mails avec Talend Studio.
+
+On travaille en sprints. Ces travaux utilisent des données internes, ils ne sont donc pas publiés ici.
 
 ### Projets
 
@@ -17,7 +28,9 @@ Je fais le lien entre les équipes Finance et les équipes techniques : recueil 
 
 ### Outils
 
-Python, SQL, Hadoop (HDFS, YARN), Hive, Git, GitHub Actions, Docker, Kubernetes, C, Linux, PHP, MySQL, JavaScript.
+- Data : Python (pandas, scikit-learn), SQL, Power BI (DAX, Power Query, Tabular Editor), Talend, Dataiku, API REST
+- Big data : Hadoop (HDFS, YARN), Hive, MapReduce
+- Dev et DevOps : Git, GitHub Actions, Docker, Kubernetes, C, Linux, PHP, MySQL, JavaScript
 
 ### Contact
 
