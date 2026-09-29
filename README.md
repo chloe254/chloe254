@@ -25,6 +25,8 @@ J'aime transformer des données financières brutes en informations fiables et u
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 **Développement & bases de données**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -48,6 +50,7 @@ J'aime transformer des données financières brutes en informations fiables et u
 |---|---|---|
 | [**DevOpsLabs**](https://github.com/chloe254/DevOpsLabs) | Série de labs DevOps : Git, tests automatisés en TDD, pipeline CI/CD avec GitHub Actions et déploiement continu sur Render, conteneurisation Docker / Docker Compose, stockage Kubernetes (emptyDir, hostPath, PersistentVolume). Chaque lab documente les difficultés rencontrées et leurs solutions. | Node.js, Redis, GitHub Actions, Docker, Kubernetes |
 | [**Omnes Immobilier**](https://github.com/bnvala/WD_Alice_Edouard_Chloe_Victor) | Application web d'agence immobilière réalisée à 4 : catalogue de biens, recherche multicritère, prise de rendez-vous, messagerie client-agent et espace administrateur. Base de données relationnelle de 11 tables, plus de 260 commits en équipe. | PHP, MySQL, HTML/CSS, JavaScript |
+| [**Systèmes d'exploitation**](https://github.com/chloe254/systemes-exploitation-c) | Programmation système Linux en C à travers 4 TP : entrées/sorties bas niveau et inodes, processus (`fork`, zombies, orphelins), signaux (mini-ordonnanceur *round-robin*), threads POSIX (produit matriciel parallèle, dîner des philosophes sans interblocage). | C, Linux, POSIX, pthreads |
 
 ---
 
