@@ -21,6 +21,7 @@ On travaille en sprints. Ces travaux utilisent des données internes, ils ne son
 
 ### Projets
 
+- [cinetarget](https://github.com/chloe254/cinetarget) : application Streamlit qui prédit le genre d'un film à partir de ses caractéristiques (Naive Bayes, Random Forest) et propose une stratégie marketing adaptée.
 - [big-data-ecosystem](https://github.com/chloe254/big-data-ecosystem) : pipeline Hadoop/Hive sur 1,9 million de trajets Citi Bike (New York), plus les labs du cours (HDFS, YARN, MapReduce en Python, Hive).
 - [DevOpsLabs](https://github.com/chloe254/DevOpsLabs) : labs DevOps sur une API Node.js/Redis, avec tests en TDD, CI/CD GitHub Actions, déploiement sur Render, Docker et Kubernetes.
 - [systemes-exploitation-c](https://github.com/chloe254/systemes-exploitation-c) : TP de programmation système en C sous Linux (fichiers, processus, signaux, threads).
@@ -28,7 +29,7 @@ On travaille en sprints. Ces travaux utilisent des données internes, ils ne son
 
 ### Outils
 
-- Data : Python (pandas, scikit-learn), SQL, Power BI (DAX, Power Query, Tabular Editor), Talend, Dataiku, API REST
+- Data : Python (pandas, scikit-learn, Streamlit, Plotly), SQL, Power BI (DAX, Power Query, Tabular Editor), Talend, Dataiku, API REST
 - Big data : Hadoop (HDFS, YARN), Hive, MapReduce
 - Dev et DevOps : Git, GitHub Actions, Docker, Kubernetes, C, Linux, PHP, MySQL, JavaScript
 
