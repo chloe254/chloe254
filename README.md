@@ -25,6 +25,7 @@ On travaille en sprints. Ces travaux utilisent des données internes, ils ne son
 - [big-data-ecosystem](https://github.com/chloe254/big-data-ecosystem) : pipeline Hadoop/Hive sur 1,9 million de trajets Citi Bike (New York), plus les labs du cours (HDFS, YARN, MapReduce en Python, Hive).
 - [DevOpsLabs](https://github.com/chloe254/DevOpsLabs) : labs DevOps sur une API Node.js/Redis, avec tests en TDD, CI/CD GitHub Actions, déploiement sur Render, Docker et Kubernetes.
 - [systemes-exploitation-c](https://github.com/chloe254/systemes-exploitation-c) : TP de programmation système en C sous Linux (fichiers, processus, signaux, threads).
+- [ece-world-tchernobyl](https://github.com/chloe254/ece-world-tchernobyl) : jeu en C avec Allegro, un parc d'attractions abandonné et 7 mini-jeux à deux joueurs, fait à quatre.
 - [Omnes Immobilier](https://github.com/bnvala/WD_Alice_Edouard_Chloe_Victor) : site d'agence immobilière en PHP/MySQL, fait à quatre.
 
 ### Outils
