@@ -21,12 +21,13 @@ On travaille en sprints. Ces travaux utilisent des données internes, ils ne son
 
 ### Projets
 
-- [cinetarget](https://github.com/chloe254/cinetarget) : application Streamlit qui prédit le genre d'un film à partir de ses caractéristiques (Naive Bayes, Random Forest) et propose une stratégie marketing adaptée.
-- [big-data-ecosystem](https://github.com/chloe254/big-data-ecosystem) : pipeline Hadoop/Hive sur 1,9 million de trajets Citi Bike (New York), plus les labs du cours (HDFS, YARN, MapReduce en Python, Hive).
-- [DevOpsLabs](https://github.com/chloe254/DevOpsLabs) : labs DevOps sur une API Node.js/Redis, avec tests en TDD, CI/CD GitHub Actions, déploiement sur Render, Docker et Kubernetes.
-- [systemes-exploitation-c](https://github.com/chloe254/systemes-exploitation-c) : TP de programmation système en C sous Linux (fichiers, processus, signaux, threads).
-- [ece-world-tchernobyl](https://github.com/chloe254/ece-world-tchernobyl) : jeu en C avec Allegro, un parc d'attractions abandonné et 7 mini-jeux à deux joueurs, fait à quatre.
-- [theorie-graphes-ligne-assemblage](https://github.com/chloe254/theorie-graphes-ligne-assemblage) : répartition d'opérations d'usine en stations sous contraintes (précédence, temps de cycle, exclusion), avec des algorithmes de graphes en C.
+- [ml-cinetarget](https://github.com/chloe254/ml-cinetarget) : application Streamlit qui prédit le genre d'un film à partir de ses caractéristiques (Naive Bayes, Random Forest) et propose une stratégie marketing adaptée.
+- [nlp-disaster-tweets](https://github.com/chloe254/nlp-disaster-tweets) : TP de NLP en Python sur le jeu de données Disaster Tweets.
+- [bigdata-hadoop-hive](https://github.com/chloe254/bigdata-hadoop-hive) : pipeline Hadoop/Hive sur 1,9 million de trajets Citi Bike (New York), plus les labs du cours (HDFS, YARN, MapReduce en Python, Hive).
+- [devops-labs](https://github.com/chloe254/devops-labs) : labs DevOps sur une API Node.js/Redis, avec tests en TDD, CI/CD GitHub Actions, déploiement sur Render, Docker et Kubernetes.
+- [systeme-programmation-c](https://github.com/chloe254/systeme-programmation-c) : TP de programmation système en C sous Linux (fichiers, processus, signaux, threads).
+- [jeu-ece-world-c](https://github.com/chloe254/jeu-ece-world-c) : jeu en C avec Allegro, un parc d'attractions abandonné et 7 mini-jeux à deux joueurs, fait à quatre.
+- [algo-theorie-graphes](https://github.com/chloe254/algo-theorie-graphes) : répartition d'opérations d'usine en stations sous contraintes (précédence, temps de cycle, exclusion), avec des algorithmes de graphes en C.
 - [Omnes Immobilier](https://github.com/bnvala/WD_Alice_Edouard_Chloe_Victor) : site d'agence immobilière en PHP/MySQL, fait à quatre.
 
 ### Outils
