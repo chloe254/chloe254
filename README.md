@@ -22,6 +22,7 @@ On travaille en sprints. Ces travaux utilisent des données internes, ils ne son
 ### Projets
 
 - [ml-cinetarget](https://github.com/chloe254/ml-cinetarget) : application Streamlit qui prédit le genre d'un film à partir de ses caractéristiques (Naive Bayes, Random Forest) et propose une stratégie marketing adaptée.
+- [dataviz-logement-etudiant](https://github.com/chloe254/dataviz-logement-etudiant) : notebook Python qui croise 8 jeux de données (CROUS, logements privés, gares, espaces verts, commerces, criminalité) pour aider un étudiant à choisir un logement en Île-de-France, avec 10 widgets interactifs (Folium, Plotly).
 - [nlp-disaster-tweets](https://github.com/chloe254/nlp-disaster-tweets) : TP de NLP en Python sur le jeu de données Disaster Tweets.
 - [sql-location-voitures](https://github.com/chloe254/sql-location-voitures) : base MySQL d'une agence de location de voitures (nettoyage, contraintes, vues, droits, transactions, procédures stockées et triggers) et application Python, fait à deux.
 - [java-specimed](https://github.com/chloe254/java-specimed) : application Java Swing de prise de rendez-vous médicaux, en MVC avec une couche DAO et MySQL, faite en équipe.
