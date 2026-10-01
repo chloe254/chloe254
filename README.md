@@ -24,6 +24,7 @@ On travaille en sprints. Ces travaux utilisent des données internes, ils ne son
 - [ml-cinetarget](https://github.com/chloe254/ml-cinetarget) : application Streamlit qui prédit le genre d'un film à partir de ses caractéristiques (Naive Bayes, Random Forest) et propose une stratégie marketing adaptée.
 - [nlp-disaster-tweets](https://github.com/chloe254/nlp-disaster-tweets) : TP de NLP en Python sur le jeu de données Disaster Tweets.
 - [sql-location-voitures](https://github.com/chloe254/sql-location-voitures) : base MySQL d'une agence de location de voitures (nettoyage, contraintes, vues, droits, transactions, procédures stockées et triggers) et application Python, fait à deux.
+- [java-specimed](https://github.com/chloe254/java-specimed) : application Java Swing de prise de rendez-vous médicaux, en MVC avec une couche DAO et MySQL, faite en équipe.
 - [bigdata-hadoop-hive](https://github.com/chloe254/bigdata-hadoop-hive) : pipeline Hadoop/Hive sur 1,9 million de trajets Citi Bike (New York), plus les labs du cours (HDFS, YARN, MapReduce en Python, Hive).
 - [devops-labs](https://github.com/chloe254/devops-labs) : labs DevOps sur une API Node.js/Redis, avec tests en TDD, CI/CD GitHub Actions, déploiement sur Render, Docker et Kubernetes.
 - [systeme-programmation-c](https://github.com/chloe254/systeme-programmation-c) : TP de programmation système en C sous Linux (fichiers, processus, signaux, threads).
@@ -35,7 +36,7 @@ On travaille en sprints. Ces travaux utilisent des données internes, ils ne son
 
 - Data : Python (pandas, scikit-learn, Streamlit, Plotly), SQL, Power BI (DAX, Power Query, Tabular Editor), Talend, Dataiku, API REST
 - Big data : Hadoop (HDFS, YARN), Hive, MapReduce
-- Dev et DevOps : Git, GitHub Actions, Docker, Kubernetes, C, Linux, PHP, MySQL, JavaScript
+- Dev et DevOps : Git, GitHub Actions, Docker, Kubernetes, C, Java, Linux, PHP, MySQL, JavaScript
 
 ### Contact
 
