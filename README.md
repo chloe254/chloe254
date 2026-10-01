@@ -26,6 +26,7 @@ On travaille en sprints. Ces travaux utilisent des données internes, ils ne son
 - [DevOpsLabs](https://github.com/chloe254/DevOpsLabs) : labs DevOps sur une API Node.js/Redis, avec tests en TDD, CI/CD GitHub Actions, déploiement sur Render, Docker et Kubernetes.
 - [systemes-exploitation-c](https://github.com/chloe254/systemes-exploitation-c) : TP de programmation système en C sous Linux (fichiers, processus, signaux, threads).
 - [ece-world-tchernobyl](https://github.com/chloe254/ece-world-tchernobyl) : jeu en C avec Allegro, un parc d'attractions abandonné et 7 mini-jeux à deux joueurs, fait à quatre.
+- [theorie-graphes-ligne-assemblage](https://github.com/chloe254/theorie-graphes-ligne-assemblage) : répartition d'opérations d'usine en stations sous contraintes (précédence, temps de cycle, exclusion), avec des algorithmes de graphes en C.
 - [Omnes Immobilier](https://github.com/bnvala/WD_Alice_Edouard_Chloe_Victor) : site d'agence immobilière en PHP/MySQL, fait à quatre.
 
 ### Outils
